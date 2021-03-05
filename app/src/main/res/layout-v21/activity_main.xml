@@ -115,6 +115,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_span="2"
+            android:backgroundTint="#4287f5"
             android:fontFamily="@font/mmedium"
             android:text="@string/login"
             android:textSize="20sp"
